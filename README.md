@@ -1,1 +1,0 @@
-# balticaos-calamares-config
